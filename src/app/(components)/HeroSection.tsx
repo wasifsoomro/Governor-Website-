@@ -7,7 +7,7 @@ const HeroSection = () => {
     <section className="bg-custom-image bg-opacity-75 pt-24 flex min-h-screen bg-cover z-10 overflow-hidden relative font-poppins items-center justify-center">
       <div className="flex bg-opacity-80 bg-zinc-100 absolute inset-0 -z-50"></div>
       <div className="flex flex-row justify-between items-center">
-        <div className=" text-black h-fit mt-20 text-5xl py-10 w-1/2 ml-72">
+        <div className=" h-fit mt-20 text-5xl py-10 w-1/2 ml-72">
           <h1 className="text-6xl  text-[#044e83] font-extrabold whitespace-nowrap">
             Governor Sindh
           </h1>
