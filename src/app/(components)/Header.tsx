@@ -11,7 +11,7 @@ function toggleMenu(){
 }
 
   return (
-    <header className="bg-custom-blue text-white flex justify-center gap-4 items-center w-full fixed z-30 top-0 py-4">
+    <header className="bg-custom-blue text-white flex justify-around items-center w-full fixed z-30 top-0 py-4">
       <div className="mb-[-80px] mt-4">
         <Image
           src="/Governor-logo.png"
